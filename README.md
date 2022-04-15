@@ -1,6 +1,6 @@
 # DSL (*domain specific language*) for accountants and financiers
 
-The app provides an easy way to perform various money operations (comparison, addition, multiplication, conversion etc.) using Scala's unique implicit technology. To achieve this simplified notation we introduce currency symbols (`PLN`, `USD`, `EUR`, `zl`, `$`, `€`) as well as overriden operators (`<`, `<=`, `>`, `>=`).
+The app provides an easy way to perform various money operations (comparison, addition, multiplication, conversion etc.) using Scala's unique implicit technology. To achieve this simplified notation we introduce currency symbols (`PLN`, `USD`, `EUR`, `zl`, `$`, `€`) as well as overridden operators (`<`, `<=`, `>`, `>=`).
 
 We can now see that these snippets of code are very readable to a non-programmer:
 ```
